@@ -1,0 +1,1 @@
+This is a recap of the concepts covered in JavaScript so far.
